@@ -1,0 +1,8 @@
+{
+  "appid": "<app_id>",
+  "appkey": "<app_key>",
+  "apptitle": "ecom-portal",
+  "connectiontag": "<connection_tag>",
+  "host": "<host>",
+  "projectid": "<project_id>"
+}
